@@ -10,7 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.13.4",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "mocha": "^2.5.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
